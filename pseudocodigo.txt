@@ -1,0 +1,19 @@
+nomeAluno = 'Daniel Porto'
+notasLancadas = 0
+pontosSomados = 0
+media = 0
+
+enquanto (notasLacadas < 4   )
+    nota = insira a nova nota do Daniel
+    pontosSomados = pontosSomados + nota
+    notasLancadas = notasLacadas + 1
+    media = pontosSomados / notasLacadas
+//encerro as repeticoes
+
+
+
+//codigo condicional
+se (media >= 6)
+    entao escreva('Aluno aprovado')
+caso contrário
+    entao escreva('Aluno reprovado')
