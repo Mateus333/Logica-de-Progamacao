@@ -22,5 +22,4 @@ function indetificarMaiorEMenorNumArray(lista) {
 }
 
 
-//indetificarMaiorEMenorNumArray([1, 2, 5, 8, 3, 33, 4, 42, 42.5]);
-indetificarMaiorEMenorNumArray([]);
+indetificarMaiorEMenorNumArray([1, 2, 5, 8, 3, 33, 4, 42, 42.5]);
