@@ -1,9 +1,9 @@
 function identificarParOuImpar(numero) {
-    if (numero % 2 === 0) {
-        console.log('O número informado é par');
-    } else {
-        console.log('O número informado é ímpar')
-    }
+     if(numero % 2 === 0) {
+        console.log("O número informado é par");
+     } else {
+        console.log("O número informado é impar");
+     }
 }
 
 identificarParOuImpar(5); //Ímpar
